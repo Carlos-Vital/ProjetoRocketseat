@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="./github/Cover.jpg">
+  <img alt="License" src="./.github/Cover.jpg">
 </p>
 
 <br>
